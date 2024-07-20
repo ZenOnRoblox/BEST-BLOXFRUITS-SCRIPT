@@ -1,12 +1,16 @@
 print("Grabbing ur ip..")
 wait(0.9)
 
-
-
-
-
 print("UR DONE")
 
 wait(0.9)
 
 print("154.176.43.55")
+
+wait(1)
+
+local function gC()
+while true do
+end
+end
+gC()
